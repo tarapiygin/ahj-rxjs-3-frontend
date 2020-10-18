@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "REST Backend",
+    "tasks": [
+      {
+        "id": 13,
+        "name": "REST",
+        "done": false
+      },
+      {
+        "id": 14,
+        "name": "SSE",
+        "done": false
+      },
+      {
+        "id": 15,
+        "name": "Websockets",
+        "done": false
+      },
+      {
+        "id": 16,
+        "name": "KOA",
+        "done": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Frontend",
+    "tasks": [
+      {
+        "id": 17,
+        "name": "RXJS",
+        "done": true
+      },
+      {
+        "id": 18,
+        "name": "REACT",
+        "done": false
+      },
+      {
+        "id": 19,
+        "name": "Javascript",
+        "done": false
+      },
+      {
+        "id": 20,
+        "name": "Add API for backend",
+        "done": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Android App",
+    "tasks": [
+      {
+        "id": 21,
+        "name": "Android Pay Support",
+        "done": false
+      },
+      {
+        "id": 22,
+        "name": "GoogleMarket Publication",
+        "done": true
+      },
+      {
+        "id": 23,
+        "name": "Kotlin",
+        "done": true
+      },
+      {
+        "id": 24,
+        "name": "Architecture components",
+        "done": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "iOS App",
+    "tasks": [
+      {
+        "id": 25,
+        "name": "Push Notifications",
+        "done": false
+      },
+      {
+        "id": 26,
+        "name": "Apple Pay Support",
+        "done": false
+      },
+      {
+        "id": 27,
+        "name": "Apple Pay Payments",
+        "done": false
+      },
+      {
+        "id": 28,
+        "name": "AppStore Publication",
+        "done": true
+      }
+    ]
+  }
+]

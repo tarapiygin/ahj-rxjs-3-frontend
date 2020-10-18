@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>State manager</title>
+</head>
+<body>
+  <div class="container">
+    <div class="stats">
+      <h1>Stats</h1>
+      <table>
+        <thead>
+          <tr class="project-item-header">
+            <td class="project-name">Project</td>
+            <td class="project-open-counter-header">Open</td>
+          </tr>
+        </thead>
+        <tbody id="projects">
+        </tbody>
+      </table>
+    </div>
+    <div class="tasks">
+      <h1>Tasks</h1>
+      <table>
+        <thead>
+          <tr class="task-item-header">
+            <td class="task-header-name">Project:</td>
+            <td class="task-header-value">iOS App</td>
+          </tr>
+        </thead>
+        <tbody id="tasks">
+        </tbody>
+      </table>
+      <div class="modal">
+        <div class="modal-header">Project:</div>
+        <ul class="change-project">
+          <li class="project active-project">iOS App</li>
+          <li class="project">REST Backend</li>
+          <li class="project">Frontend</li>
+          <li class="project">Android App</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
